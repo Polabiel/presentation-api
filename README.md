@@ -89,4 +89,4 @@ Se quiser entender ainda mais sobre os requests, recomendo olhar uma API de test
 
 # Fontes
 
-(A anatomia de uma API RESTful)[https://thiagolima.blog.br/a-anatomia-de-uma-api-restful-80df2aca158e]
+[A anatomia de uma API RESTful](https://thiagolima.blog.br/a-anatomia-de-uma-api-restful-80df2aca158e)
