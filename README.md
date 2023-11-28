@@ -86,3 +86,7 @@ Nesse caso temos padrões famosos como oAuth e JWT.
 E aí conseguiu entender melhor como funciona uma API?
 
 Se quiser entender ainda mais sobre os requests, recomendo olhar uma API de testes para você conseguir "brincar" com algumas chamadas, como [essa](https://reqres.in/) por exemplo.
+
+# Fontes
+
+(A anatomia de uma API RESTful)[https://thiagolima.blog.br/a-anatomia-de-uma-api-restful-80df2aca158e]
