@@ -1,0 +1,16 @@
+{
+  "name": "presentation-api",
+  "version": "1.0.0",
+  "description": "API quer dizer \"Application Programming Interface\", em outras palavras, é uma interface de comunicação entre desenvolvedores.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
